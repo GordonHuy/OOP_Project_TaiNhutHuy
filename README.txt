@@ -1,4 +1,4 @@
-This is our group's Github links, we will update the project on this reposity only.
+This is our group's Github links, we will update the project on this repository only.
 Group member:
 ITITIU14126	Nguyễn Thanh Tài
 ITDSIU18051	Võ Hoàng Nhựt
